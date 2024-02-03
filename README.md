@@ -203,7 +203,7 @@ Note: Use Python version: 3.8.5
   
   ### Procedure
   ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+  git clone https://github.com/gaurav-aditya/Computer-Automation.git
   ```
   For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
   
@@ -234,7 +234,7 @@ Note: Use Python version: 3.8.5
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\Computer-Automation\src`
   
   Step 6:
   
@@ -262,3 +262,5 @@ Note: Use Python version: 3.8.5
   |
   
 # Computer-Automation-
+<br>
+#About me- [https://linktr.ee/echoaditya]
