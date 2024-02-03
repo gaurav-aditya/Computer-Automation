@@ -4,7 +4,7 @@
 
 Gesture Controlled Virtual Mouse makes human computer interaction simple by making use of Hand Gestures and Voice Commands. The computer requires almost no direct contact. All i/o operations can be virtually controlled by using static and dynamic hand gestures along with a voice assistant. This project makes use of the state-of-art Machine Learning and Computer Vision algorithms to recognize hand gestures and voice commands, which works smoothly without any additional hardware requirements. It leverages models such as CNN implemented by [MediaPipe](https://github.com/google/mediapipe) running on top of pybind11. It consists of two modules: One which works direct on hands by making use of MediaPipe Hand detection, and other which makes use of Gloves of any uniform color. Currently it works on Windows platform.
 
- _Video Demonstration: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_<br>
+ 
 Note: Use Python version: 3.8.5
 
 # Features
@@ -256,9 +256,9 @@ Note: Use Python version: 3.8.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Aditya Prakash | [GitHub](https://github.com/gaurav-aditya) | [Email](mailto:echoaditya@proton.me) | [LinkedIn](https://www.linkedin.com/in/echoaditya) | Instagram |
-  | Amit Tiwari | [Github](https://github.com/) | [Email](mailto:amitamittiwari404@gmail.com) | [LinkedIn](https://www.linkedin.com/in//) | [Instagram] |
-  | Bhuwan Chauhan | [GitHub](https://github.com/algorithm-unlock) | [Email](mailto:chauhanbhuwan0@gmail.com) | LinkedIn | Instagram |
+  | Aditya Prakash | [GitHub](https://github.com/gaurav-aditya) | [Email](mailto:echoaditya@proton.me) | [LinkedIn](https://www.linkedin.com/in/echoaditya)  |
+  | Amit Tiwari | [Github](https://github.com/algoamit) | [Email](mailto:amitamittiwari404@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amittiwari2002/)  |
+  | Bhuwan Chauhan | [GitHub](https://github.com/algorithm-unlock) | [Email](mailto:chauhanbhuwan0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhuwanchauhan)  |
   |
   
 # Computer-Automation-
